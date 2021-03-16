@@ -5,4 +5,4 @@ _A few scripts related to plotting the amount of covid-19 cases around the world
 
 - Add classes and functions.
 - Strenghten the security.
-- Finish translating them (the scripts were originally written in spanish).
+- Finish translating the scripts (they were originally written in spanish).
