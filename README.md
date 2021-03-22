@@ -5,7 +5,7 @@ _A few scripts related to plotting the amount of covid-19 cases around the world
 
 You will just need to sign up into colab.research.google.com and open up the scripts.
 
-**TO-DO List:**
+## TO-DO List:
 
 - Add classes and functions.
 - Strenghten the security.
