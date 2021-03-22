@@ -20,3 +20,6 @@ Google Collaboratory - Jupyter Notebooks
 - Add classes and functions.
 - Strenghten the security.
 - Finish translating the scripts (they were originally written in spanish).
+
+## Author
+- Juan Manuel Díaz Arbués
