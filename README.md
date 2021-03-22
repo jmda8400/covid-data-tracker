@@ -3,11 +3,11 @@ _A few scripts related to plotting the amount of covid-19 cases around the world
 
 ## Getting Started
 
-You will just need to sign up into colab.research.google.com and open up the scripts.
+You will just need to sign up into [colab.research.google.com](colab.research.google.com) and open up the scripts.
 
 ## Built With
 
-Google Collaboratory - Jupyter Notebooks
+Google Collaboratory - Jupyter Notebook
 **Libraries used**
 - Pandas
 - Numpy
